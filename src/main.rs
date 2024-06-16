@@ -3,7 +3,6 @@ use system_status_bar_macos::*;
 use tokio::*;
 
 #[tokio::main(flavor = "current_thread")]
-
 async fn main() {
     let demo_day = NaiveDate::from_ymd_opt(2024, 7, 28)
         .unwrap()
