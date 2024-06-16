@@ -1,4 +1,11 @@
+## nights and weekends starts today and ends in 6 weeks.
+
 ![image](https://github.com/malted/buildspace-timer/assets/59726149/daf4ab0b-0838-4dc8-b670-dfca2866282c)
+
+includes quicklink to [sage](https://sage.buildspace.so):
+
+![image](https://github.com/malted/buildspace-timer/assets/59726149/0656027d-0177-4066-9f61-57ed6e5e229b)
+
 
 ### install:
 ```bash
