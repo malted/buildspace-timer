@@ -16,7 +16,7 @@ async fn main() {
         Menu::new(vec![MenuItem::new(
             "open sage",
             Some(Box::new(|| {
-                webbrowser::open("http://sage.buildspace.so").expect("failed to open sage")
+                webbrowser::open("https://sage.buildspace.so").expect("failed to open sage")
             })),
             None,
         )]),
